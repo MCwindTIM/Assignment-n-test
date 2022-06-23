@@ -1,0 +1,69 @@
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.From.resources
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\180290074\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.From.resources
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\180091706\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.From.resources
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MCwind\Desktop\WindowsApplication1234\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.From.resources
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MCwind\Desktop\ITE3711_180091706_StudentNo2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.From.resources
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\180091706\Desktop\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.From.resources
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\VTC 檔案\ITE3711_180091706_180290074\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
